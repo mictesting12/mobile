@@ -1,0 +1,13 @@
+{
+  "name": "believerscommon-mobile",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "start": "expo start",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "react": "18.x",
+    "react-native": "0.76.x"
+  }
+}
